@@ -25,7 +25,7 @@
 
 ## Next goal
 
-- Hyun Jin PER 
+- Hyun Jin Lee 
   - 이력서 첨삭 받기 (3명 이상)
 - Changhyun An
   - 이력서 넣기
