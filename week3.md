@@ -5,7 +5,7 @@
 - [x] [@Hyun Jin Lee](https://github.com/HyunTruth): 블로그 정상화 및 마이그레이션
 - [x] [@Changhyun An](https://github.com/achooan): 포트폴리오 프로젝트 통합테스트 완료 및 CI/CD 구축하기
 - [ ] [@SEUNG HOON, SHIN](https://github.com/newinh): 개인 블로그 첫삽 뜨기
-- [ ] [@HunZoo.Seok](https://github.com/zooozoo): 
+- [ ] [@HunZoo.Seok](https://github.com/zooozoo):  개인 블로그 첫삽 뜨기
 - [ ] [@Euihyun_Yang](https://github.com/noahluftyang): 개인 블로그 첫삽 뜨기
 
 ## Achievement
@@ -21,6 +21,7 @@
   - 한 스타트업에서 면접제의가 와서 보고왔습니다- 다음 미팅 때  공유드릴께요!
 - SEUNG HOON, SHIN
 - HunZoo.Seok
+  - jekyll로 잘 만든 블로그가 있어서 그걸 따라해 보려고 하다가 너무 시간을 많이 쏟을 것 같아서 기존의 블로그 테마를 수정하는 방향으로 선회
 - Euihyun_Yang
 
 ## Next goal
@@ -32,4 +33,5 @@
   - 개인 페이지 띄우기
 - SEUNG HOON, SHIN
 - HunZoo.Seok
+  - 기존 블로그 테마 레이아웃 수정해서 hosting 까지
 - Euihyun_Yang
