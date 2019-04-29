@@ -20,6 +20,8 @@
   - Demo는 http://ec.achooan.com
   - 한 스타트업에서 면접제의가 와서 보고왔습니다- 다음 미팅 때  공유드릴께요!
 - SEUNG HOON, SHIN
+  - 이력서 업데이트 中
+  - week3 목표를 달성하지 못해서 week4 목표로 이월합니다😢
 - HunZoo.Seok
 - Euihyun_Yang
 
@@ -31,6 +33,8 @@
   - 이력서 넣기
   - 개인 페이지 띄우기
 - SEUNG HOON, SHIN
+  - 이력서 업데이트
+  - 개인 블로그 첫삽 뜨기
 - HunZoo.Seok
   - 기존 사용하던 테마 수정해서 hosting 하는 것 까지
 - Euihyun_Yang
