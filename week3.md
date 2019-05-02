@@ -23,6 +23,7 @@
   - 이력서 업데이트 中
   - week3 목표를 달성하지 못해서 week4 목표로 이월합니다😢
 - HunZoo.Seok
+  - week3 목표달성 못했어요.. 좀 더 세분화 해서 week4 목표로 잡겠습니다.
 - Euihyun_Yang
 
 ## Next goal
