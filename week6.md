@@ -32,7 +32,9 @@
 
 - SEUNG HOON, SHIN
   - 프로필 페이지를 만들었다.
+    - https://newinh.me
   - 이력서를 올려두었다.
+    - https://newinh.me/files/resume.pdf
   - 생각보다 자소서를 필요로 하는 회사가 많았다.
 - HunZoo.Seok
   - 다음 번에 할게요 ㅠㅠ
