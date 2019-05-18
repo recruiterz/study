@@ -60,6 +60,7 @@
 ## Retrospective
 
 - 지원 현황에 대한 스프레드 시트를 만들어서 공유하자!
+  - https://docs.google.com/spreadsheets/d/1u3u6wx4xlbzmYdtTgVn-m7G2zolkEzDJZQrDRNTAVMw/edit?usp=sharing
 
 ### Pros
 
