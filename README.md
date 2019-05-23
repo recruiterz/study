@@ -9,3 +9,7 @@
 - 19.05.09 Thu Week5 - none
 - [19.05.16 Thu Week6](./week6.md)
 - [19.05.23 Thu Week7](./week7.md)
+
+## Application Status
+
+[Goole Spread-Sheets](https://docs.google.com/spreadsheets/d/1u3u6wx4xlbzmYdtTgVn-m7G2zolkEzDJZQrDRNTAVMw/edit?usp=sharing)
