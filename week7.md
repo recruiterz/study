@@ -5,7 +5,7 @@
 ## Goal
 
 - [ ] [@Hyun Jin Lee](https://github.com/HyunTruth): 면접 준비
-- [ ] [@Changhyun An](https://github.com/achooan): Django & REST 스터디하기 및 번역 기여하기
+- [x] [@Changhyun An](https://github.com/achooan): Django REST framework 스터디하기 및 번역 기여하기
 - [x] [@SEUNG HOON, SHIN](https://github.com/newinh): 회사 지원하기
 - [x] [@HunZoo.Seok](https://github.com/zooozoo): 블로그 작성하기
 - [x] [@Euihyun_Yang](https://github.com/noahluftyang): 이력서 디자인 적용하기, 회사 1곳 이상 지원하기
@@ -14,6 +14,17 @@
 
 - Hyun Jin Lee
 - Changhyun An
+  - Django REST framework는 tutorial만 진행하였습니다.
+  - 번역 작업은 현재 40퍼센트 완료하였습니다.
+  - 모 회사 코딩 테스트를 진행했습니다. 파이썬 버전 2.7로 진행해야 했습니다(;;).
+    - String
+    - RegEx
+    - Built-in functions
+    - Data structures: list, dictionary
+    - Data formats: xml, json
+    - Http request
+    - OOP
+    - Decorator
 - SEUNG HOON, SHIN
   - 회사에 지원하였고 면접 준비를 해야한다.
 - HunZoo.Seok
@@ -25,6 +36,8 @@
 
 - Hyun Jin Lee
 - Changhyun An
+  - 번역 작업 70퍼 달성하기
+  - 회사 적응하기
 - SEUNG HOON, SHIN
   - 면접 준비
   - 대기업 지원해보기
