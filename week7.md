@@ -17,14 +17,15 @@
   - Django REST framework는 tutorial만 진행하였습니다.
   - 번역 작업은 현재 40퍼센트 완료하였습니다.
   - 모 회사 코딩 테스트를 진행했습니다. 파이썬 버전 2.7로 진행해야 했습니다(;;).
-    - String
-    - RegEx
-    - Built-in functions
-    - Data structures: list, dictionary
-    - Data formats: xml, json
-    - Http request
-    - OOP
-    - Decorator
+  - 저작권이 명시되어 있어 전체 공개는 어려워서 요약해드릴께요:
+    - String - spliting string
+    - RegEx - matching pattern
+    - Built-in functions - sum, len for average, sorted for list and dictionary
+    - Data structures: list, dictionary - word count in dictionary
+    - Data formats: xml, json - xml parsing, json loads and dumps
+    - Http request - Django body parsing
+    - OOP - implementing classes in OOP
+    - Decorator - implementing decorator
 - SEUNG HOON, SHIN
   - 회사에 지원하였고 면접 준비를 해야한다.
 - HunZoo.Seok
