@@ -34,6 +34,7 @@
 - SEUNG HOON, SHIN
   - 성공적인 처우 협의하기
 - HunZoo.Seok
+  - CGI, WSGI 조사 및 정리
 - Euihyun_Yang
   - 계속 회사 지원하기
   - 노션 카피 앱 만들기
