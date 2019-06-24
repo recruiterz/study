@@ -12,7 +12,7 @@
 - 19.05.29 Thu Week8 - none
 - 19.06.06 Thu Week9 - none
 - [19.06.13 Thu Week10](./week10.md)
-- [19.06.20 Thu Week9](./week11.md)
+- [19.06.20 Thu Week11](./week11.md)
 
 ## Application Status
 
