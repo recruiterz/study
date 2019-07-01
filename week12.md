@@ -13,6 +13,7 @@
 - Hyun Jin Lee
 - Changhyun An
 - SEUNG HOON, SHIN
+  - 목표했던 것의 20% 밖에 달성하지 못했습니다.....🐥
 - HunZoo.Seok
 - Euihyun_Yang
 
@@ -21,6 +22,8 @@
 - Hyun Jin Lee
 - Changhyun An
 - SEUNG HOON, SHIN
+  - 지난 주 목표를 이어가도록 하겠습니다:)
+  `Head First Design Pattern` Chapter 5까지 (1/3 가량) 읽기.
 - HunZoo.Seok
 - Euihyun_Yang
 
