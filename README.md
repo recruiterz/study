@@ -17,6 +17,8 @@
 - [19.07.04 Thu Week13](./week13.md)
 - [19.07.11 Thu Week14](./week14.md)
 - [19.07.23 Tue Week15](./week15.md)
+- 19.07.30 Tue Week16 - none
+- [19.08.06 Tue Week17](./week17.md)
 
 ## Application Status
 
