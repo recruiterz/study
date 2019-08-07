@@ -1,4 +1,9 @@
-# week13
+---
+title: Week 13
+date: "2019-07-04T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️☕️
+description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+---
 
 ## Goal
 
@@ -11,6 +16,8 @@
   `Head First Design Pattern` Chapter 5까지 (1/3 가량) 읽기.
 - [x] [@HunZoo.Seok](https://github.com/zooozoo)
 - [x] [@Euihyun_Yang](https://github.com/noahluftyang)
+
+---
 
 ## Achievement
 
@@ -26,6 +33,8 @@
 - HunZoo.Seok
 - Euihyun_Yang
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -38,6 +47,8 @@
   - SQL 책 정독하고 내용 정리하기.
 - Euihyun_Yang
   - 협상 마무리하기.
+
+---
 
 ## Retrospective
 

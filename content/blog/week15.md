@@ -1,12 +1,19 @@
-# week15
+---
+title: Week 15
+date: "2019-07-23T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️☕️
+description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+---
 
 ## Goal
 
-- [ ] [@Hyun Jin Lee](https://github.com/HyunTruth)
-- [ ] [@Changhyun An](https://github.com/achooan)
-- [ ] [@SEUNG HOON, SHIN](https://github.com/newinh)
-- [ ] [@HunZoo.Seok](https://github.com/zooozoo)
-- [ ] [@Euihyun_Yang](https://github.com/noahluftyang)
+- [x] [@Hyun Jin Lee](https://github.com/HyunTruth)
+- [x] [@Changhyun An](https://github.com/achooan)
+- [x] [@SEUNG HOON, SHIN](https://github.com/newinh)
+- [x] [@HunZoo.Seok](https://github.com/zooozoo)
+- [x] [@Euihyun_Yang](https://github.com/noahluftyang)
+
+---
 
 ## Achievement
 
@@ -31,6 +38,8 @@
   - 데이터 기반으로 의사결정을 하려는게 보였다.
   - 장기 플랜으로 블로그 포스트를 쓰는 습관을 들이려고 한다.
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -45,6 +54,8 @@
 - Euihyun_Yang
   - graph 라이브러리 비교하는 쇼케이스 어플리케이션 만들어보기.
   - 오브젝트 책 읽기.
+
+---
 
 ## Retrospective
 

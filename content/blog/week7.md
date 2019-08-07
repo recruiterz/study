@@ -1,4 +1,9 @@
-# week7
+---
+title: Week 7
+date: "2019-05-23T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️
+description: 참석자 - 석헌주, 신승훈, 안창현, 양의현
+---
 
 > 현진님 잘될거에요. 제발~
 
@@ -9,6 +14,8 @@
 - [x] [@SEUNG HOON, SHIN](https://github.com/newinh): 회사 지원하기
 - [x] [@HunZoo.Seok](https://github.com/zooozoo): 블로그 작성하기
 - [x] [@Euihyun_Yang](https://github.com/noahluftyang): 이력서 디자인 적용하기, 회사 1곳 이상 지원하기
+
+---
 
 ## Achievement
 
@@ -33,6 +40,8 @@
 - Euihyun_Yang
   - 다음 주에 회사 리크루트 매니저와 인터뷰 할 예정이다.
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -47,6 +56,8 @@
   - 태그별 아카이빙에 도전해보겠다.
 - Euihyun_Yang
   - 인터뷰 후기 전달하기
+
+---
 
 ## Retrospective
 

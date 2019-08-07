@@ -1,4 +1,9 @@
-# week12
+---
+title: Week 12
+date: "2019-06-27T19:00:00.000Z"
+coffee: ☕️️️️️️☕️
+description: 참석자 - 신승훈, 안창현
+---
 
 ## Goal
 
@@ -7,6 +12,8 @@
 - [ ] [@SEUNG HOON, SHIN](https://github.com/newinh)
 - [ ] [@HunZoo.Seok](https://github.com/zooozoo)
 - [ ] [@Euihyun_Yang](https://github.com/noahluftyang)
+
+---
 
 ## Achievement
 
@@ -19,6 +26,8 @@
 - HunZoo.Seok
 - Euihyun_Yang
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -30,6 +39,8 @@
   `Head First Design Pattern` Chapter 5까지 (1/3 가량) 읽기.
 - HunZoo.Seok
 - Euihyun_Yang
+
+---
 
 ## Retrospective
 

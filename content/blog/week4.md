@@ -1,4 +1,9 @@
-# week4
+---
+title: Week 4
+date: "2019-05-02T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️☕️
+description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+---
 
 ## Goal
 
@@ -7,6 +12,8 @@
 - [x] [@SEUNG HOON, SHIN](https://github.com/newinh): 이력서 업데이트 및 개인 블로그 첫삽 뜨기
 - [ ] [@HunZoo.Seok](https://github.com/zooozoo): 기존 사용하던 테마 수정해서 hosting 하는 것 까지
 - [x] [@Euihyun_Yang](https://github.com/noahluftyang): reactjs 번역 프로젝트 기여하기
+
+---
 
 ## Achievement
 
@@ -39,6 +46,8 @@
   - tutorial 파트를 번역 완료하였습니다!
   - 이번 주말에 PR 보내는 것을 목표로 마무리 짓겠습니다.
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -56,6 +65,8 @@
   - (:ant:) 기존 블로그 컨텐츠 이관하기
 - Euihyun_Yang
   - gatsby + netlify 블로그 구축하는 포스트 작성하기
+
+---
 
 ## Retrospective
 

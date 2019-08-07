@@ -1,4 +1,9 @@
-# week10
+---
+title: Week 10
+date: "2019-06-13T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️☕️
+description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+---
 
 ## Goal
 
@@ -7,6 +12,8 @@
 - [ ] [@SEUNG HOON, SHIN](https://github.com/newinh)
 - [ ] [@HunZoo.Seok](https://github.com/zooozoo)
 - [ ] [@Euihyun_Yang](https://github.com/noahluftyang)
+
+---
 
 ## Achievement
 
@@ -25,6 +32,8 @@
   - 한곳 코딩테스트 예정이며 한곳은 면접이 예정되어있다.
   - 동시에 3곳씩 꾸준하게 지원하고 있다.
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -38,6 +47,8 @@
 - Euihyun_Yang
   - 계속 회사 지원하기
   - 노션 카피 앱 만들기
+
+---
 
 ## Retrospective
 

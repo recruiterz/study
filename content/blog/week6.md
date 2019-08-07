@@ -1,4 +1,9 @@
-# week6
+---
+title: Week 6
+date: "2019-05-16T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️☕️
+description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+---
 
 > 빠지면 SIO
 
@@ -9,6 +14,8 @@
 - [x] [@SEUNG HOON, SHIN](https://github.com/newinh): 블로그와 이력서 완성하기
 - [ ] [@HunZoo.Seok](https://github.com/zooozoo):
 - [x] [@Euihyun_Yang](https://github.com/noahluftyang): 이력서 컨텐츠 작성하기
+
+---
 
 ## Achievement
 
@@ -29,7 +36,6 @@
     - 문화, 복지, 회사성과, 소식 등 미리 알고가면 좋다.
     - 면접장소까지 5-10분 일찍가서 미리 대기하면서 분위기 적응하기.
     - 궁금한 점이 있는지에 대한 질문은 미리 몇가지 준비하기. (면접을 진행하면서, 가지고 있던 궁금증이 해소되는 경우도 있기 때문에, 마지막에 궁금한 점 있는지 물어볼 때 어색했던 적이 있었어요)
-
 - SEUNG HOON, SHIN
   - 프로필 페이지를 만들었다.
     - https://newinh.me
@@ -40,6 +46,8 @@
   - 다음 번에 할게요 ㅠㅠ
 - Euihyun_Yang
   - 내용 작성은 완료하였고 피드백을 토대로 개선할 예정이다.
+
+---
 
 ## Next goal
 
@@ -56,6 +64,8 @@
 - Euihyun_Yang
   - 이력서 디자인 적용하기
   - 회사 1곳 이상 지원하기
+
+---
 
 ## Retrospective
 

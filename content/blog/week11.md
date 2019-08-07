@@ -1,4 +1,9 @@
-# week11
+---
+title: Week 11
+date: "2019-06-20T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️
+description: 참석자 - 신승훈, 안창현, 양의현
+---
 
 ## Goal
 
@@ -7,6 +12,8 @@
 - [x] [@SEUNG HOON, SHIN](https://github.com/newinh)
 - [ ] [@HunZoo.Seok](https://github.com/zooozoo)
 - [ ] [@Euihyun_Yang](https://github.com/noahluftyang)
+
+---
 
 ## Achievement
 
@@ -27,6 +34,8 @@
   - 알고리즘을 진행할 것이라 예상하지 못해서 많이 당황했었습니다.
   - notion clone app은 시간 나는대로 진행하고 있습니다 😅
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -39,6 +48,8 @@
 - HunZoo.Seok
 - Euihyun_Yang
   - 면접이 3군데 잡혀있는데 진행하고 후기 공유하기.
+
+---
 
 ## Retrospective
 

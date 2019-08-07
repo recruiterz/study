@@ -1,4 +1,9 @@
-# week2
+---
+title: Week 2
+date: "2019-04-18T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️
+description: 참석자 - 신승훈, 안창현, 양의현, 이현진
+---
 
 ## Goal
 
@@ -7,6 +12,8 @@
 - [x] [@SEUNG HOON, SHIN](https://github.com/newinh): 회사에 제출할 이력서 완성
 - [ ] [@HunZoo.Seok](https://github.com/zooozoo): 내가 이력서에 넣을 수 있는 기술 스택 리스트업 하기
 - [x] [@Euihyun_Yang](https://github.com/noahluftyang): 회사가 갖추면 좋을 요소들을 정리하고 이를 공유
+
+---
 
 ## Achievement
 
@@ -22,18 +29,21 @@
   - 경력 추가
   - 지원 동기를 경험 위주로 업데이트 하였다.
 - HunZoo.Seok
-  - 개인 사정으로 불참
 - Euihyun_Yang
   - 예전에 만들었던 발표자료를 보고 리마인드하였다.
   - 개인적으로 내가 사용하고싶은 기술을 배려해주는 회사를 가장 가고싶다.
   - [발표자료 링크](https://levelup-developers.netlify.com)
 
-## Informations
+---
+
+## Information
 
 - 라인이 입사하기 적절한 시기임
   - 네이버보다는 라인을 추천함
   - 파트장이 많음, 책임을 짐
   - **재지원에 불이익이 없음**
+
+---
 
 ## Next goal
 
@@ -51,6 +61,8 @@
   - 이력서 작성하기
   - 개인 블로그 첫삽 뜨기 (gatsby + netlify)
 - HunZoo.Seok:
+
+---
 
 ## Retrospective
 

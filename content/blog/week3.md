@@ -1,4 +1,9 @@
-# week3
+---
+title: Week 3
+date: "2019-04-25T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕️☕️
+description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+---
 
 ## Goal
 
@@ -7,6 +12,8 @@
 - [ ] [@SEUNG HOON, SHIN](https://github.com/newinh): 개인 블로그 첫삽 뜨기
 - [ ] [@HunZoo.Seok](https://github.com/zooozoo): 개인 블로그 첫삽 뜨기
 - [ ] [@Euihyun_Yang](https://github.com/noahluftyang): 개인 블로그 첫삽 뜨기
+
+---
 
 ## Achievement
 
@@ -25,6 +32,8 @@
 - HunZoo.Seok
   - week3 목표달성 못했어요.. 좀 더 세분화 해서 week4 목표로 잡겠습니다.
 - Euihyun_Yang
+
+---
 
 ## Next goal
 

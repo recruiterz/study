@@ -1,4 +1,9 @@
-# week14
+---
+title: Week 14
+date: "2019-07-11T19:00:00.000Z"
+coffee: ☕️️️️️️☕️☕️☕
+description: 참석자 - 신승훈, 안창현, 양의현, 이현진
+---
 
 ## Goal
 
@@ -12,6 +17,8 @@
   - SQL 책 정독하고 내용 정리하기.
 - [x] [@Euihyun_Yang](https://github.com/noahluftyang)
   - 협상 마무리하기.
+
+---
 
 ## Achievement
 
@@ -30,6 +37,8 @@
 - Euihyun_Yang
   - 협상 마무리되었다. 결과적으로 가장 만족스러운 처우였다.
 
+---
+
 ## Next goal
 
 - Hyun Jin Lee
@@ -43,6 +52,8 @@
 - HunZoo.Seok
 - Euihyun_Yang
   - 그래프 라이브러리 조사하기
+
+---
 
 ## Retrospective
 
