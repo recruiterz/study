@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: recruiterz/study
+collections:
+  - create: true
+    fields:
+      - label: Path
+        name: path
+      - label: Date
+        name: date
+        widget: date
+      - label: Title
+        name: title
+      - label: Body
+        name: body
+        widget: markdown
+    folder: content/meetup
+    label: meetup
+    name: meetup
+media_folder: content/assets
