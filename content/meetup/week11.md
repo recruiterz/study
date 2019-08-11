@@ -2,7 +2,7 @@
 title: Week 11
 date: "2019-06-20T19:00:00.000Z"
 coffee: ☕️️️️️️☕️☕️
-description: 참석자 - 신승훈, 안창현, 양의현
+description: 신승훈, 안창현, 양의현
 ---
 
 ## Goal

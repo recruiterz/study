@@ -1,75 +1,48 @@
-import React from "react"
-import { Link } from "gatsby"
+import { StyleSheet, Text, View } from 'react-native';
+import { rhythm, scale } from '../utils';
+import { Footer } from './footer';
+import React from 'react';
+import { navigate } from 'gatsby';
 
-import { rhythm, scale } from "../utils/typography"
+const styles = StyleSheet.create({
+  layout: {
+    marginLeft: `auto`,
+    marginRight: `auto`,
+    maxWidth: rhythm(24),
+    paddingHorizontal: rhythm(3 / 4),
+    paddingVertical: rhythm(1.5),
+  },
+  rootHeaderTitle: {
+    ...scale(1.5),
+    display: 'block',
+    fontFamily: 'Noto Sans KR',
+    fontWeight: '900',
+    marginBottom: rhythm(1.5),
+  },
+  postHeaderTitle: {
+    ...scale(0.5),
+    display: 'block',
+    fontFamily: 'Noto Sans KR',
+    fontWeight: '900',
+    marginBottom: rhythm(0.5),
+  },
+});
 
-class Layout extends React.Component {
-  render() {
-    const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    let header
+export const Layout = ({ children, location, title }) => {
+  const rootPath = `${__PATH_PREFIX__}/`;
 
-    if (location.pathname === rootPath) {
-      header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
+  return (
+    <View style={styles.layout}>
+      <header>
+        <Text
+          onPress={() => navigate('/')}
+          style={location.pathname === rootPath ? styles.rootHeaderTitle : styles.postHeaderTitle}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h3>
-      )
-    }
-    return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        <header>{header}</header>
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </div>
-    )
-  }
-}
-
-export default Layout
+          {title}
+        </Text>
+      </header>
+      <main>{children}</main>
+      <Footer />
+    </View>
+  );
+};

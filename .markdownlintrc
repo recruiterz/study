@@ -1,0 +1,6 @@
+{
+  // line-length
+  "MD013": false,
+  // no-trailing-punctuation
+  "MD026": false
+}

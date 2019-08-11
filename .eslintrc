@@ -1,6 +1,12 @@
 {
   "root": true,
   "extends": ["@stillmine", "prettier"],
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "globals": {
+    "__PATH_PREFIX__": "readonly"
+  },
   "overrides": [
     {
       "files": ["**/*.ts", "**/*.tsx"],

@@ -2,7 +2,7 @@
 title: Week 6
 date: "2019-05-16T19:00:00.000Z"
 coffee: ☕️️️️️️☕️☕️☕️☕️
-description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+description: 석헌주, 신승훈, 안창현, 양의현, 이현진
 ---
 
 > 빠지면 SIO
@@ -38,9 +38,9 @@ description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
     - 궁금한 점이 있는지에 대한 질문은 미리 몇가지 준비하기. (면접을 진행하면서, 가지고 있던 궁금증이 해소되는 경우도 있기 때문에, 마지막에 궁금한 점 있는지 물어볼 때 어색했던 적이 있었어요)
 - SEUNG HOON, SHIN
   - 프로필 페이지를 만들었다.
-    - https://newinh.me
+    - [https://newinh.me](https://newinh.me)
   - 이력서를 올려두었다.
-    - https://newinh.me/files/resume.pdf
+    - [https://newinh.me/files/resume.pdf](https://newinh.me/files/resume.pdf)
   - 생각보다 자소서를 필요로 하는 회사가 많았다.
 - HunZoo.Seok
   - 다음 번에 할게요 ㅠㅠ
@@ -70,7 +70,6 @@ description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
 ## Retrospective
 
 - 지원 현황에 대한 스프레드 시트를 만들어서 공유하자!
-  - https://docs.google.com/spreadsheets/d/1u3u6wx4xlbzmYdtTgVn-m7G2zolkEzDJZQrDRNTAVMw/edit?usp=sharing
 
 ### Pros
 

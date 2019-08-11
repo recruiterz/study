@@ -2,7 +2,7 @@
 title: Week 13
 date: "2019-07-04T19:00:00.000Z"
 coffee: ☕️️️️️️☕️☕️☕️☕️
-description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+description: 석헌주, 신승훈, 안창현, 양의현, 이현진
 ---
 
 ## Goal

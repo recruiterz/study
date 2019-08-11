@@ -2,7 +2,7 @@
 title: Week 2
 date: "2019-04-18T19:00:00.000Z"
 coffee: ☕️️️️️️☕️☕️☕️
-description: 참석자 - 신승훈, 안창현, 양의현, 이현진
+description: 신승훈, 안창현, 양의현, 이현진
 ---
 
 ## Goal

@@ -2,7 +2,7 @@
 title: Week 3
 date: "2019-04-25T19:00:00.000Z"
 coffee: ☕️️️️️️☕️☕️☕️☕️
-description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
+description: 석헌주, 신승훈, 안창현, 양의현, 이현진
 ---
 
 ## Goal
@@ -19,12 +19,12 @@ description: 참석자 - 석헌주, 신승훈, 안창현, 양의현, 이현진
 
 - Hyun Jin Lee
   - 마이그레이션 / SSL 세팅까지 완료
-  - https://hyuntruth.xyz
+  - [https://hyuntruth.xyz](https://hyuntruth.xyz)
   - 사진의 경우는 가져오지 못해서, 수동 업로드 필요
 - Changhyun An
   - 테스트 추가완료
   - CircleCI, DockerHub 연동했고 CD는 다음 기회에..
-  - Demo는 http://ec.achooan.com
+  - Demo는 [http://ec.achooan.com](http://ec.achooan.com)
   - 한 스타트업에서 면접제의가 와서 보고왔습니다- 다음 미팅 때 공유드릴께요!
 - SEUNG HOON, SHIN
   - 이력서 업데이트 中

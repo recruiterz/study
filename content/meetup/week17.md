@@ -2,7 +2,7 @@
 title: Week 17
 date: "2019-08-06T19:30:00.000Z"
 coffee: ☕️️️️️️☕️☕️☕️
-description: 참석자 - 신승훈, 양의현, 이현진, 전윤아
+description: 신승훈, 양의현, 이현진, 전윤아
 ---
 
 ## Goal
