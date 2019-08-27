@@ -8,8 +8,8 @@ const NotFound = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="404: Not Found" />
-      <Text>Not Found</Text>
-      <Text>You just hit a route that doesn&apos;t exist... the sadness.</Text>
+      <p>Not Found</p>
+      <p>You just hit a route that doesn&apos;t exist... the sadness.</p>
     </Layout>
   );
 };

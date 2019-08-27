@@ -1,5 +1,5 @@
 ---
-title: Week 17
+title: Week 18
 date: "2019-08-20T19:30:00.000Z"
 chicken: 4
 description: 이현진, 전윤아, 석헌주, 진승아
@@ -42,6 +42,7 @@ description: 이현진, 전윤아, 석헌주, 진승아
 - Changhyun An
 - SEUNG HOON, SHIN
 - Euihyun_Yang
+
 ---
 
 ## Next goal
@@ -67,4 +68,3 @@ description: 이현진, 전윤아, 석헌주, 진승아
 ### Pros
 
 ### Cons
-
