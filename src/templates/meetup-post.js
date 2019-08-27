@@ -1,32 +1,26 @@
 import { Layout, SEO } from '../components';
-import { StyleSheet, Text, View } from 'react-native';
-import { rhythm, scale } from '../utils';
+import { rhythm } from '../utils';
 import React from 'react';
-import { graphql } from 'gatsby';
-import { navigate } from '@reach/router';
+import { graphql, Link } from 'gatsby';
+import styled from '@emotion/styled';
 
-const styles = StyleSheet.create({
-  postTitle: {
-    marginTop: rhythm(1),
-    marginBottom: 0,
-  },
-  postDate: {
-    ...scale(-1 / 5),
-    display: 'block',
-    marginBottom: rhythm(1),
-  },
-  hr: {
-    borderBottomColor: 'hsla(0, 0%, 0%, 0.2)',
-    borderBottomWidth: 1,
-    marginBottom: rhythm(1),
-  },
-  navigationWrapper: {
-    display: 'flex',
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    marginBottom: rhythm(1),
-  },
-});
+const PostTitle = styled.h1`
+  margin-top: ${rhythm(1)};
+  margin-bottom: 0;
+`;
+
+const PostDate = styled.p`
+  display: block;
+  margin-bottom: ${rhythm(1)};
+`;
+
+const NavigationWrapper = styled.ul`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+`;
 
 const MeetupPostTemplate = ({ data, location, pageContext }) => {
   const meetup = data.markdownRemark;
@@ -39,16 +33,22 @@ const MeetupPostTemplate = ({ data, location, pageContext }) => {
         title={meetup.frontmatter.title}
         description={meetup.frontmatter.description || meetup.excerpt}
       />
-      <Text style={styles.postTitle}>{meetup.frontmatter.title}</Text>
-      <Text style={styles.postDate}>{meetup.frontmatter.date}</Text>
+      <PostTitle>{meetup.frontmatter.title}</PostTitle>
+      <PostDate>{meetup.frontmatter.date}</PostDate>
       <div dangerouslySetInnerHTML={{ __html: meetup.html }} />
-      <View style={styles.hr} />
-      <View style={styles.navigationWrapper}>
+      <hr />
+      <NavigationWrapper>
         {previous && (
-          <Text onPress={() => navigate(previous.fields.slug)}>← {previous.frontmatter.title}</Text>
+          <li>
+            <Link to={previous.fields.slug}>← {previous.frontmatter.title}</Link>
+          </li>
         )}
-        {next && <Text onPress={() => navigate(next.fields.slug)}>{next.frontmatter.title} →</Text>}
-      </View>
+        {next && (
+          <li>
+            <Link to={next.fields.slug}>{next.frontmatter.title} →</Link>
+          </li>
+        )}
+      </NavigationWrapper>
     </Layout>
   );
 };

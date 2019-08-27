@@ -1,20 +1,16 @@
 import { Layout, SEO } from '../components';
-import { StyleSheet, Text, View } from 'react-native';
-import { blue, rhythm, scale } from '../utils';
-import { graphql, navigate } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 import React from 'react';
+import { rhythm } from '../utils';
+import styled from '@emotion/styled';
 
-const styles = StyleSheet.create({
-  meetupItemWrapper: {
-    marginBottom: rhythm(0.5),
-  },
-  meetupItemTitle: {
-    ...scale(0.5),
-    color: blue[500],
-    fontFamily: 'Noto Sans KR',
-    fontWeight: '700',
-  },
-});
+const IndexWrapper = styled.section`
+  margin-bottom: ${rhythm(0.5)};
+`;
+
+const MeetupItemTitle = styled.h3`
+  margin-bottom: ${rhythm(1 / 4)};
+`;
 
 const Index = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
@@ -27,15 +23,18 @@ const Index = ({ data, location }) => {
         const title = node.frontmatter.title || node.fields.slug;
 
         return (
-          <View key={node.fields.slug} style={styles.meetupItemWrapper}>
-            <Text onPress={() => navigate(node.fields.slug)} style={styles.meetupItemTitle}>
-              {title}
-            </Text>
-            <Text>{node.frontmatter.date}</Text>
-            <Text>
-              {node.frontmatter.coffee} {node.frontmatter.description || node.excerpt}
-            </Text>
-          </View>
+          <IndexWrapper key={node.fields.slug}>
+            <MeetupItemTitle>
+              <Link to={node.fields.slug}>{title}</Link>
+            </MeetupItemTitle>
+            <small>{node.frontmatter.date}</small>
+            <p
+              dangerouslySetInnerHTML={{
+                __html: `${node.frontmatter.coffee || ''} ${node.frontmatter.description ||
+                  node.excerpt}`,
+              }}
+            />
+          </IndexWrapper>
         );
       })}
     </Layout>
