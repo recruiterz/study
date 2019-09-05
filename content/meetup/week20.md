@@ -2,7 +2,7 @@
 title: Week 20
 date: "2019-09-03T19:30:00.000Z"
 coffee: 
-description: -
+description: 😈
 ---
 
 ## Goal
