@@ -4,13 +4,15 @@ backend:
 collections:
   - create: true
     fields:
-      - label: Path
-        name: path
+      - label: Title
+        name: title
+      - label: Description
+        name: description
+      - label: Coffee
+        name: coffee
       - label: Date
         name: date
         widget: date
-      - label: Title
-        name: title
       - label: Body
         name: body
         widget: markdown
